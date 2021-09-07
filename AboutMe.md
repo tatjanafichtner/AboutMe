@@ -1,6 +1,8 @@
 # Hi, my name is Tatjana Fichtner.
 I'm from Stuttgart and I like reading and writing. _Coding is a great way to be creative._
-My birthplace is Esslingen am Neckar. **(Esslingen is a nice place. I´ve been there once...)**
+My birthplace is Esslingen am Neckar. 
 
-> What is the colour of my eyes?
+**(Esslingen is a nice place. I´ve been there once...)**
+
+> What is the colour of my eyes? <
 Brown.
